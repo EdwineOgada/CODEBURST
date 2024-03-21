@@ -33,15 +33,15 @@
 
     <section id="about">
         <h2>About</h2>
-        <p>A little bit about myself...</p>
+        <p>Learn Frontend Web Development</p>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li>Project 1</li>
-            <li>Project 2</li>
-            <li>Project 3</li>
+            <li>Learn HTML</li>
+            <li>Learn CSS</li>
+            <li>Learn Javascript</li>
         </ul>
     </section>
 </body>
